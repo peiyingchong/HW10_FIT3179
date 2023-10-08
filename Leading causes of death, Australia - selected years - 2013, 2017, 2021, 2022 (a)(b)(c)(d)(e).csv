@@ -1,81 +1,81 @@
 Cause of death ,Year,Number
-Ischaemic heart disease,2013,"19,858"
-"Dementia, including Alzheimer's disease ",2013,"10,965"
+Ischaemic heart disease,2013,19858
+"Dementia, including Alzheimer's disease ",2013,10965
 COVID-19 ,2013,0
-Cerebrovascular disease,2013,"10,570"
-"Malignant neoplasm of trachea, bronchus and lung ",2013,"8,230"
-Chronic lower respiratory disease,2013,"7,174"
-Diabetes ,2013,"4,356"
-"Malignant neoplasm of colon, sigmoid, rectum and anus ",2013,"5,398"
-"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2013,"4,115"
-Diseases of the urinary system ,2013,"2,997"
-Accidental falls,2013,"2,014"
-Heart failure and complications and ill-defined heart disease,2013,"3,256"
-Malignant neoplasm of prostate ,2013,"3,127"
-Malignant neoplasm of pancreas ,2013,"2,572"
-Intentional self-harm [suicide] ,2013,"2,629"
-Malignant neoplasm of breast ,2013,"2,902"
-Cardiac arrhythmias ,2013,"1,896"
-Influenza and pneumonia ,2013,"2,509"
-Hypertensive diseases,2013,"2,164"
-Cirrhosis and other diseases of liver ,2013,"1,779"
-Ischaemic heart disease,2017,"19,043"
-"Dementia, including Alzheimer's disease ",2017,"13,991"
+Cerebrovascular disease,2013,10570
+"Malignant neoplasm of trachea, bronchus and lung ",2013,8230
+Chronic lower respiratory disease,2013,7174
+Diabetes ,2013,4356
+"Malignant neoplasm of colon, sigmoid, rectum and anus ",2013,5398
+"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2013,4115
+Diseases of the urinary system ,2013,2997
+Accidental falls,2013,2014
+Heart failure and complications and ill-defined heart disease,2013,3256
+Malignant neoplasm of prostate ,2013,3127
+Malignant neoplasm of pancreas ,2013,2572
+Intentional self-harm [suicide] ,2013,2629
+Malignant neoplasm of breast ,2013,2902
+Cardiac arrhythmias ,2013,1896
+Influenza and pneumonia ,2013,2509
+Hypertensive diseases,2013,2164
+Cirrhosis and other diseases of liver ,2013,1779
+Ischaemic heart disease,2017,19043
+"Dementia, including Alzheimer's disease ",2017,13991
 COVID-19 ,2017,0
-Cerebrovascular disease,2017,"10,298"
-"Malignant neoplasm of trachea, bronchus and lung ",2017,"8,291"
-Chronic lower respiratory disease,2017,"8,497"
-Diabetes ,2017,"4,937"
-"Malignant neoplasm of colon, sigmoid, rectum and anus ",2017,"5,358"
-"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2017,"4,563"
-Diseases of the urinary system ,2017,"3,474"
-Accidental falls,2017,"2,909"
-Heart failure and complications and ill-defined heart disease,2017,"3,449"
-Malignant neoplasm of prostate ,2017,"3,322"
-Malignant neoplasm of pancreas ,2017,"3,008"
-Intentional self-harm [suicide] ,2017,"3,292"
-Malignant neoplasm of breast ,2017,"2,953"
-Cardiac arrhythmias ,2017,"2,357"
-Influenza and pneumonia ,2017,"4,090"
-Hypertensive diseases,2017,"2,370"
-Cirrhosis and other diseases of liver ,2017,"1,968"
-Ischaemic heart disease,2021,"17,419"
-"Dementia, including Alzheimer's disease ",2021,"15,957"
-COVID-19 ,2021,"1,122"
-Cerebrovascular disease,2021,"9,837"
-"Malignant neoplasm of trachea, bronchus and lung ",2021,"8,677"
-Chronic lower respiratory disease,2021,"7,818"
-Diabetes ,2021,"5,402"
-"Malignant neoplasm of colon, sigmoid, rectum and anus ",2021,"5,471"
-"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2021,"5,083"
-Diseases of the urinary system ,2021,"4,249"
-Accidental falls,2021,"3,801"
-Heart failure and complications and ill-defined heart disease,2021,"3,643"
-Malignant neoplasm of prostate ,2021,"3,621"
-Malignant neoplasm of pancreas ,2021,"3,432"
-Intentional self-harm [suicide] ,2021,"3,166"
-Malignant neoplasm of breast ,2021,"3,159"
-Cardiac arrhythmias ,2021,"2,642"
-Influenza and pneumonia ,2021,"2,087"
-Hypertensive diseases,2021,"2,443"
-Cirrhosis and other diseases of liver ,2021,"2,325"
-Ischaemic heart disease,2022,"18,643"
-"Dementia, including Alzheimer's disease ",2022,"17,106"
-COVID-19 ,2022,"9,859"
-Cerebrovascular disease,2022,"9,829"
-"Malignant neoplasm of trachea, bronchus and lung ",2022,"9,048"
-Chronic lower respiratory disease,2022,"8,580"
-Diabetes ,2022,"6,050"
-"Malignant neoplasm of colon, sigmoid, rectum and anus ",2022,"5,410"
-"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2022,"5,168"
-Diseases of the urinary system ,2022,"4,571"
-Accidental falls,2022,"4,084"
-Heart failure and complications and ill-defined heart disease,2022,"3,919"
-Malignant neoplasm of prostate ,2022,"3,799"
-Malignant neoplasm of pancreas ,2022,"3,687"
-Intentional self-harm [suicide] ,2022,"3,249"
-Malignant neoplasm of breast ,2022,"3,169"
-Cardiac arrhythmias ,2022,"2,782"
-Influenza and pneumonia ,2022,"2,762"
-Hypertensive diseases,2022,"2,638"
-Cirrhosis and other diseases of liver ,2022,"2,600"
+Cerebrovascular disease,2017,10298
+"Malignant neoplasm of trachea, bronchus and lung ",2017,8291
+Chronic lower respiratory disease,2017,8,497
+Diabetes ,2017,4937
+"Malignant neoplasm of colon, sigmoid, rectum and anus ",2017,5358
+"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2017,4563
+Diseases of the urinary system ,2017,3474
+Accidental falls,2017,2909
+Heart failure and complications and ill-defined heart disease,2017,3449
+Malignant neoplasm of prostate ,2017,3322
+Malignant neoplasm of pancreas ,2017,3008
+Intentional self-harm [suicide] ,2017,3292
+Malignant neoplasm of breast ,2017,2953
+Cardiac arrhythmias ,2017,2357
+Influenza and pneumonia ,2017,4090
+Hypertensive diseases,2017,2370
+Cirrhosis and other diseases of liver ,2017,1968
+Ischaemic heart disease,2021,17419
+"Dementia, including Alzheimer's disease ",2021,15957
+COVID-19 ,2021,1122
+Cerebrovascular disease,2021,9837
+"Malignant neoplasm of trachea, bronchus and lung ",2021,8677
+Chronic lower respiratory disease,2021,7818
+Diabetes ,2021,5402
+"Malignant neoplasm of colon, sigmoid, rectum and anus ",2021,5471
+"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2021,5083
+Diseases of the urinary system ,2021,4249
+Accidental falls,2021,3801
+Heart failure and complications and ill-defined heart disease,2021,3643
+Malignant neoplasm of prostate ,2021,3621
+Malignant neoplasm of pancreas ,2021,3432
+Intentional self-harm [suicide] ,2021,3166
+Malignant neoplasm of breast ,2021,3159
+Cardiac arrhythmias ,2021,2642
+Influenza and pneumonia ,2021,2087
+Hypertensive diseases,2021,2443
+Cirrhosis and other diseases of liver ,2021,2325
+Ischaemic heart disease,2022,18643
+"Dementia, including Alzheimer's disease ",2022,17106
+COVID-19 ,2022,9859
+Cerebrovascular disease,2022,9829
+"Malignant neoplasm of trachea, bronchus and lung ",2022,9048
+Chronic lower respiratory disease,2022,8580
+Diabetes ,2022,6050
+"Malignant neoplasm of colon, sigmoid, rectum and anus ",2022,5410
+"Malignant neoplasm of lymphoid, haematopoietic and related tissue",2022,5168
+Diseases of the urinary system ,2022,4571
+Accidental falls,2022,4084
+Heart failure and complications and ill-defined heart disease,2022,3919
+Malignant neoplasm of prostate ,2022,3799
+Malignant neoplasm of pancreas ,2022,3687
+Intentional self-harm [suicide] ,2022,3249
+Malignant neoplasm of breast ,2022,3169
+Cardiac arrhythmias ,2022,2782
+Influenza and pneumonia ,2022,2762
+Hypertensive diseases,2022,2638
+Cirrhosis and other diseases of liver ,2022,2600
